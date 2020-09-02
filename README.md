@@ -1,2 +1,2 @@
-# untitled-project
-it is game/project
+# trex runneing game
+it is an obstacle game
